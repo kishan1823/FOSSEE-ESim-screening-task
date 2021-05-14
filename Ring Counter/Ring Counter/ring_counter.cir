@@ -1,0 +1,25 @@
+* C:\Users\saisr\eSim-Workspace\ring_counter\ring_counter.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 5/14/2021 12:00:23 AM
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U4  clk rst Net-_U1-Pad1_ Net-_U1-Pad2_ adc_bridge_2		
+U5  Net-_U1-Pad3_ Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ out1 out2 out3 out4 dac_bridge_4		
+R1  out1 GND resistor		
+v1  clk GND pulse		
+U3  clk plot_v1		
+v2  rst GND pulse		
+U2  rst plot_v1		
+R2  out2 GND resistor		
+R3  out3 GND resistor		
+R4  out4 GND resistor		
+U8  out1 plot_v1		
+U6  out2 plot_v1		
+U9  out3 plot_v1		
+U7  out4 plot_v1		
+U1  Net-_U1-Pad1_ Net-_U1-Pad2_ Net-_U1-Pad3_ Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ ring_count		
+
+.end

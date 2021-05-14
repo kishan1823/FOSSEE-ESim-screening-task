@@ -1,0 +1,5084 @@
+Setup Client Server Connection at Fri May 14 08:19:26 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1224 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1224 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Fri May 14 08:20:10 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1144 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1120 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1120 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Fri May 14 09:46:18 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1208 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1208 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Fri May 14 11:51:34 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1132 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1132 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1132 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1132 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1132 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1132 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1132 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1132 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Fri May 14 12:33:21 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1228 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1228 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1228 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1228 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1228 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1228 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1228 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1228 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1228 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1228 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Fri May 14 18:54:52 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : B0:1,B1:0,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : B0:0,B1:0,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:0,B2:0,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:0,B2:0,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : B0:0,B1:1,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:1,B1:0,B2:1,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : B0:0,B1:0,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:1,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:0,B1:1,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:0,B2:0,B3:0 
+Message Received From Server-p:1;
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:0,B1:0,B2:0,B3:0 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:1,B1:1,B2:1,B3:1 
+Message Received From Server-p:0;
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 932 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 932 & Message sent : B0:0,B1:1,B2:1,B3:1 
+Message Received From Server-p:1;
+Client-Bit val is 1 
